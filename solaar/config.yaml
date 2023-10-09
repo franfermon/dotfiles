@@ -1,0 +1,31 @@
+- 1.1.10
+- _NAME: MX Anywhere 3
+  _absent: [hi-res-scroll, lowres-scroll-mode, scroll-ratchet, thumb-scroll-invert, thumb-scroll-mode, onboard_profiles, report_rate, pointer_speed, speed-change,
+    backlight, backlight-timed, fn-swap, persistent-remappable-keys, disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led,
+    multiplatform, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 4100
+  _modelId: B02540900000
+  _serial: 1E313BB7
+  _unitId: 1E313BB7
+  _wpid: '4090'
+  change-host: null
+  divert-keys: {82: 0, 83: 0, 86: 0, 196: 0}
+  dpi: 1000
+  hires-scroll-mode: false
+  hires-smooth-invert: false
+  hires-smooth-resolution: true
+  reprogrammable-keys: {80: 80, 81: 81, 82: 82, 83: 83, 86: 86, 196: 196}
+  smart-shift: 12
+- _NAME: Bluetooth Multi-Device Keyboard K380
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, pointer_speed, dpi, speed-change, backlight, backlight-timed, reprogrammable-keys, persistent-remappable-keys,
+    crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 4096
+  _modelId: B34200000000
+  _sensitive: {fn-swap: true}
+  _unitId: BF000100
+  change-host: null
+  disable-keyboard-keys: {1: false, 4: false, 8: false, 16: false}
+  divert-keys: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 62: 0, 186: 0, 187: 0, 188: 0, 189: 0, 190: 0, 191: 0, 192: 0, 193: 0, 194: 0}
+  fn-swap: false
+  multiplatform: 1
