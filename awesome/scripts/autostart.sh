@@ -12,5 +12,3 @@ run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 
 # Start compositor
 picom &
-# Nitrogen wallpaper
-run nitrogen --restore &
