@@ -114,7 +114,7 @@ local editor       = os.getenv("EDITOR") or "nvim"
 local browser      = "firefox"
 
 awful.util.terminal = terminal
-awful.util.tagnames = { "MAIN", "MAIL", "FILE", "OTHER", "EXTRA" }
+awful.util.tagnames = { "MAIN", "WEB", "MAIL", "FILE", "OTHER" }
 awful.layout.layouts = {
     awful.layout.suit.tile,
     awful.layout.suit.tile.left,
