@@ -9,6 +9,7 @@ local gears = require("gears")
 local lain  = require("lain")
 local awful = require("awful")
 local wibox = require("wibox")
+local beautiful = require("beautiful")
 local dpi   = require("beautiful.xresources").apply_dpi
 
 local os = os
@@ -92,6 +93,10 @@ theme.titlebar_maximized_button_normal_active   = theme.confdir .. "/icons/title
 theme.titlebar_maximized_button_focus_active    = theme.confdir .. "/icons/titlebar/maximized_focus_active.png"
 --]]
 local markup = lain.util.markup
+
+-- Add gaps between windows
+-- beautiful.useless_gap = 100
+
 
 -- Textclock
 os.setlocale(os.getenv("LANG")) -- to localize the clock

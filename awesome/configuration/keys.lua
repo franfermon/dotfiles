@@ -19,7 +19,7 @@ local mod          = "Mod4"
 local alt          = "Mod1"
 local terminal     = "kitty"
 local browser      = "firefox"
-
+local scrlocker    = "slock"
 
 -- Define bindings
 
