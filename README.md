@@ -13,7 +13,7 @@ First of all, let's start by installing paru as an AUR package manager:
 
 After we have installed paru we will download all required packages for our environment
 
-    paru -S awesome zsh zsh-syntax-highlighting zsh-theme-powerlevel10k-git ly picom-git xorg xorg-server xinit pipewire pipewire-alsa pipewire-pulse pipewire-jack alsa-utils firefox ttf-iosevka-nerd ttf-iosevkaterm-nerd kitty rofi gtk2 gtk3 gtk4 polkit-gnome slock
+    paru -S awesome zsh zsh-syntax-highlighting zsh-theme-powerlevel10k-git ly picom-git xorg xorg-server xorg-xinit pipewire pipewire-alsa pipewire-pulse pipewire-jack alsa-utils firefox ttf-iosevka-nerd ttf-iosevkaterm-nerd kitty rofi gtk2 gtk3 gtk4 polkit-gnome slock
 
 Additionally, if you have an NVIDIA graphics card, make sure to install the nvidia drivers (check the official arch documentation in case of any doubt):
 
